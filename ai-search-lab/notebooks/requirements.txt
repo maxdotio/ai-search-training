@@ -1,0 +1,5 @@
+torch==2.0.1
+transformers==4.33.1
+datasets==2.14.5
+sentence-transformers==2.2.2
+opensearch-py==2.3.1
