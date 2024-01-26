@@ -9,6 +9,7 @@ docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/03-index-opensearch.ipynb" "$DESTINAT
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/04-query-hybrid.ipynb" "$DESTINATION_DIR"
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/05-RAG.ipynb" "$DESTINATION_DIR"
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/06-Text2Query.ipynb" "$DESTINATION_DIR"
+docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/07-CLIP.ipynb" "$DESTINATION_DIR"
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/requirements.txt" "$DESTINATION_DIR"
 
 #cc_news_title_embeddings_50000.pkl
