@@ -10,6 +10,6 @@ docker compose up
 
 Then in your browser navigate to http://localhost:8888/tree/notebooks
 
-© 2023, MAX.IO LLC
+© 2023-2024, MAX.IO LLC
 
 Apache 2.0 License
