@@ -11,6 +11,7 @@ docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/05-RAG.ipynb" "$DESTINATION_DIR"
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/06-Text2Query.ipynb" "$DESTINATION_DIR"
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/07-CLIP.ipynb" "$DESTINATION_DIR"
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/08-chain-of-thought.ipynb" "$DESTINATION_DIR"
+docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/09-structured-output.ipynb" "$DESTINATION_DIR"
 docker cp "$SOURCE_CONTAINER":"$SOURCE_DIR/requirements.txt" "$DESTINATION_DIR"
 
 #cc_news_title_embeddings_50000.pkl
